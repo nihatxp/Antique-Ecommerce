@@ -41,4 +41,10 @@ Bu sayfa, müşterilerin antika ürünlerle ilgili yaptığı yorumları listele
 
 ![Antika Ürünler Listesi - Filtreleme ve Listeleme](https://github.com/nihatxp/Antika/assets/87497469/576e5993-0861-4f07-95f8-30690ac9e0c2)
 
-Bu sayfa, tüm antika ürünlerin listesini sunar. Admin kullanıcıları, ürünleri filtreleyebilir ve belirli
+Bu sayfa, tüm antika ürünlerin listesini sunar. Admin kullanıcıları, ürünleri filtreleyebilir ve belirli kriterlere göre sıralayabilir.
+
+## Sepet İşlemleri
+
+![Sepet İşlemleri](https://github.com/nihatxp/Antika/assets/87497469/378f06f6-9653-4511-9c8a-1fff67fa2fde)
+
+Bu sayfa, müşterilerin sepetlerini ve yapılan alışveriş işlemlerini yönetmek için kullanılır. Admin kullanıcıları, sipariş durumunu güncelleyebilir veya müşteri taleplerini takip edebilir.
