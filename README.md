@@ -1,6 +1,11 @@
 # Antique E-commerce Sitesi
 
-Bu markdown sayfası, Antique E-commerce sitesinin admin paneli ve ana sayfasının sayfalarını içermektedir.
+```
+Not:
+Antique E-commerce sitesi pure php ile yazılmıştır ve genel fikir oluşması için bir örnek teşkil etmektedir.
+Kullanılması için gerçeğe uyarlanması, geliştirilmesi ve iyileştirilmesi gerekmektedir.
+```
+Bu markdown sayfası, Antique E-commerce sitesinin admin paneli ve sayfalarını içermektedir.
 
 ## Admin Paneli - Ana Sayfa
 
