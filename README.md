@@ -9,42 +9,42 @@ Bu markdown sayfası, Antique E-commerce sitesinin admin paneli ve sayfalarını
 
 ## Admin Paneli - Ana Sayfa
 
-![Admin Paneli - Ana Sayfa](https://github.com/nihatxp/Antika/assets/87497469/7b467bb2-0f6c-48e3-94c6-d02f527dbd8a)
+![Admin Paneli - Ana Sayfa](https://github.com/nihatxp/Antique-Ecommerce/assets/87497469/be96ea77-6c27-456f-af3d-5fe1c40dc419)
 
 Admin panelinin ana sayfası, site yöneticilerine genel bakış sağlar. Bu sayfada genellikle kullanıcı istatistikleri, gelen mesaj sayısı veya siparişler gibi bilgiler yer alır.
 
 ## Admin Paneli - Ürün Düzenleme
 
-![Admin Paneli - Ürün Düzenleme](https://github.com/nihatxp/Antika/assets/87497469/68dfad4f-0ade-4b79-8ede-36a35da8238e)
+![Admin Paneli - Ürün Düzenleme](https://github.com/nihatxp/Antique-Ecommerce/assets/87497469/19492c58-9592-4207-b6e2-54f144fc3220)
 
 Bu sayfa, admin kullanıcılarına antika ürünlerin düzenlenmesini sağlar. Ürün bilgileri, fiyatlar, stok durumu ve diğer özellikler bu sayfa üzerinden güncellenebilir.
 
 ## Admin Paneli - Sayfa Ayarları - Siteyi Bakım Moduna Alma
 
-![Admin Paneli - Sayfa Ayarları - Siteyi Bakım Moduna Alma](https://github.com/nihatxp/Antika/assets/87497469/e2910464-4411-48da-9668-ca60e410a06c)
+![Admin Paneli - Sayfa Ayarları - Siteyi Bakım Moduna Alma](https://github.com/nihatxp/Antique-Ecommerce/assets/87497469/369fcdf7-f9ed-4d11-b10d-c6eddc080b6a)
 
 Bu sayfa, site yöneticilerine siteyi bakım moduna alma seçeneği sunar. Bakım modu, site üzerinde yapılan güncellemeler veya bakım çalışmaları sırasında kullanıcıların erişimini kısıtlamak için kullanılır.
 
 ## Admin Paneli - Gelen Mesajlar
 
-![Admin Paneli - Gelen Mesajlar](https://github.com/nihatxp/Antika/assets/87497469/ca82d978-a786-45c3-a145-fc2e22dce8fb)
+![Admin Paneli - Gelen Mesajlar](https://github.com/nihatxp/Antique-Ecommerce/assets/87497469/bed487b9-8cee-4ede-961c-0510e9bb9af3)
 
 Bu sayfa, siteye gelen mesajları yönetmek için kullanılır. Admin kullanıcıları, müşteri sorularına cevap vermek veya istekleri yanıtlamak için bu sayfayı kullanabilir.
 
 ## Ürün Yorumları
 
-![Admin Paneli - Ürün Yorumları](https://github.com/nihatxp/Antika/assets/87497469/03b82566-414d-4808-b6c8-43baaabba0a9)
+![Admin Paneli - Ürün Yorumları](https://github.com/nihatxp/Antique-Ecommerce/assets/87497469/9fbec0fa-6fca-414f-85e2-822a65bdbb77)
 
 Bu sayfa, müşterilerin antika ürünlerle ilgili yaptığı yorumları listeler. Admin kullanıcıları, yorumları onaylama veya reddetme gibi işlemleri buradan yapabilir.
 
 ## Antika Ürünler Listesi - Filtreleme ve Listeleme
 
-![Antika Ürünler Listesi - Filtreleme ve Listeleme](https://github.com/nihatxp/Antika/assets/87497469/576e5993-0861-4f07-95f8-30690ac9e0c2)
+![Antika Ürünler Listesi - Filtreleme ve Listeleme](https://github.com/nihatxp/Antique-Ecommerce/assets/87497469/ba08799c-ca7c-4767-8176-9c3d39604396)
 
 Bu sayfa, tüm antika ürünlerin listesini sunar. Admin kullanıcıları, ürünleri filtreleyebilir ve belirli kriterlere göre sıralayabilir.
 
 ## Sepet İşlemleri
 
-![Sepet İşlemleri](https://github.com/nihatxp/Antika/assets/87497469/378f06f6-9653-4511-9c8a-1fff67fa2fde)
+![Sepet İşlemleri](https://github.com/nihatxp/Antique-Ecommerce/assets/87497469/8e71cfec-7345-4839-b489-0edcdff92062)
 
 Bu sayfa, müşterilerin sepetlerini ve yapılan alışveriş işlemlerini yönetmek için kullanılır. Admin kullanıcıları, sipariş durumunu güncelleyebilir veya müşteri taleplerini takip edebilir.
